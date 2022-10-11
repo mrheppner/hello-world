@@ -1,6 +1,6 @@
 ![Your Repository's Stats](https://github-readme-stats.vercel.app/api?username=mrheppner&show_icons=true)
 
-![Your Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=mrheppner&theme=blue-green)
+![Your Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs?username=mrheppner&theme=blue-green)
 
 
 
